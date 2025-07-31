@@ -20,13 +20,13 @@ export default function Contact() {
           maxSize={1.4}
           particleDensity={100}
           className="w-full h-full"
-          particleColor="#FFFFFF"
+          particleColor="#9ca3af"
         />
       </div>
       <h1 className="md:text-7xl text-3xl lg:text-6xl font-bold text-center text-white relative z-20">
         Interested in working together?
       </h1>
-      <Link href={"mailto:orcish@email.com"} className="z-10">
+      <Link href={"mailto:avilaburgos29@gmail.com"} className="z-10">
         <Button size={"lg"}>
           Send me an email <Mail className="size-5 ml-2" />
         </Button>
