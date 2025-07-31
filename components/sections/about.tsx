@@ -1,7 +1,6 @@
 import { TextGenerateEffect } from "../ui/text-generate-effect";
 
-const words = `Oxygen gets you high. In a catastrophic emergency, we're taking giant, panicked breaths. Suddenly you become euphoric, docile. You accept your fate. It's all right here. Emergency water landing, six hundred miles an hour. Blank faces, calm as Hindu cows
-`;
+const words = `I believe in clean code, powerful data, and the future of intelligent systems. Every project I build is an opportunity to blend creativity with technology to make things that truly work.`;
 
 export default function About() {
   return (
